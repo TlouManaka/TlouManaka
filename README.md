@@ -13,8 +13,8 @@ I like learning new tools by shipping something real with them.
 
 - 💻 Full flow: Angular front-ends → ASP.NET Core Web APIs → SQL Server (and other back-end services)
 - 🌱 I learn best by building — a new framework, library, or pattern goes straight into a real feature
-- 🔭 Currently working on: **[project or feature name]**
-- 📚 Currently exploring: **[a new tech you're picking up]**
+- 🔭 Currently working on: **[runnerCarRentals-fullstack]**
+- 📚 Currently exploring: **[Agentic AI and multi-agent systems]**
 - 📫 Reach me: [tlouabby@gmail.com](tlouabby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tlou-manaka/) · [Portfolio](https://tloumanaka.github.io/tlou.dev/)
 
 ### 🛠️ Tech Stack
@@ -29,10 +29,6 @@ I like learning new tools by shipping something real with them.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
 
 <p align="center"><i>Always up for a conversation about an interesting problem to solve.</i></p>
 
