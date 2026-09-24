@@ -15,7 +15,7 @@ I like learning new tools by shipping something real with them.
 - 🌱 I learn best by building — a new framework, library, or pattern goes straight into a real feature
 - 🔭 Currently working on: **[project or feature name]**
 - 📚 Currently exploring: **[a new tech you're picking up]**
-- 📫 Reach me: [your.email@example.com](tlouabby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tlou-manaka/) · [Portfolio](https://tloumanaka.github.io/tlou.dev/)
+- 📫 Reach me: [tlouabby@gmail.com](tlouabby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tlou-manaka/) · [Portfolio](https://tloumanaka.github.io/tlou.dev/)
 
 ### 🛠️ Tech Stack
 
