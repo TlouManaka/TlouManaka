@@ -1,81 +1,38 @@
-Hi, I'm Tlou Manaka 👋
-Software Developer | Angular • ASP.NET Core • C# • SQL Server
+<!-- Replace everything in [brackets] with your own info before you commit this. -->
 
-I’m a software developer who enjoys learning new technologies by building and solving real-world problems.
+<h1 align="center">Hi, I'm Tlou Manaka 👋</h1>
+<h3 align="center">Full-Stack Developer — Angular · ASP.NET Core · SQL Server</h3>
 
-I build web applications where Angular applications communicate with ASP.NET Core Web APIs, with C# handling backend business logic and Microsoft SQL Server managing application data.
+<p align="center">
+I build web applications end-to-end — Angular/TypeScript front-ends wired to ASP.NET Core Web APIs,
+backed by SQL Server, including APIs that talk to other back-end services, not just a database.
+I like learning new tools by shipping something real with them.
+</p>
 
-I’m particularly interested in building practical business applications, APIs, integrations, and systems that turn business requirements into working software.
+### 🧭 About Me
 
-🛠️ Tech Stack
+- 💻 Full flow: Angular front-ends → ASP.NET Core Web APIs → SQL Server (and other back-end services)
+- 🌱 I learn best by building — a new framework, library, or pattern goes straight into a real feature
+- 🔭 Currently working on: **[project or feature name]**
+- 📚 Currently exploring: **[a new tech you're picking up]**
+- 📫 Reach me: [your.email@example.com](tlouabby@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tlou-manaka/) · [Portfolio](https://tloumanaka.github.io/tlou.dev/)
 
-Frontend
+### 🛠️ Tech Stack
 
-HTML
-CSS
-JavaScript
-TypeScript
-Angular
+**Front-end**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-Backend
+**Back-end**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-C#
-ASP.NET Core
-ASP.NET Core Web API
-Entity Framework Core
-REST APIs
-
-Database
-
-Microsoft SQL Server
-
-Engineering
-
-Git & GitHub
-Unit Testing
-Integration Testing
-Clean Architecture
-Dependency Injection
-Agile / Jira
-🚀 What I Build
-
-I enjoy working on projects that involve:
-
-Building Angular applications that consume REST APIs
-Designing and developing ASP.NET Core Web APIs
-Implementing business rules and application logic
-Working with relational databases and SQL
-Integrating applications with other APIs
-Writing automated tests
-Structuring applications using maintainable architectures
-📌 Featured Projects
-Runners Car Rental
-
-A full-stack car rental application built with Angular, ASP.NET Core Web API and SQL Server.
-
-Focus: Authentication, authorization, business rules, REST APIs, database integration and clean architecture.
+**Database & Tools**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 
-🌱 Currently Learning
+### 📊 GitHub Stats
 
-I learn by building rather than only following tutorials.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
 
-My current focus is improving my skills in:
+<p align="center"><i>Always up for a conversation about an interesting problem to solve.</i></p>
 
-Advanced C#
-ASP.NET Core Web API
-Angular
-SQL Server
-Automated testing
-Software architecture
-API integration
-Data structures and algorithms
-🎯 My Development Approach
-
-Learn → Build → Test → Improve → Document
-
-I believe the best way to learn software development is to build useful systems, solve problems, understand why the solution works, and continuously improve the implementation.
-
-📫 Connect With Me
-
-LinkedIn • Portfolio
